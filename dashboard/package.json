@@ -21,7 +21,7 @@
     "ip": "^1.1.5",
     "js-yaml": "^3.13.1",
     "jsonpath": "^1.0.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "morgan": "^1.9.1"
   },
   "devDependencies": {

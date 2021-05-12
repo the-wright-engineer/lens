@@ -79,7 +79,7 @@
     "babel-core": "^7.0.0-bridge.0",
     "babel-loader": "^8.0.6",
     "babel-plugin-macros": "^2.6.1",
-    "chart.js": "^2.9.2",
+    "chart.js": "^2.9.4",
     "color": "^3.1.2",
     "commander": "^4.0.1",
     "concurrently": "^5.1.0",
